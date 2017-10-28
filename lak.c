@@ -17,4 +17,6 @@ break;
 default:
 printf("yoyo");
 }
+printf("first case programme");
 }
+
